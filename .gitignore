@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# TensorFlow / DeepXDE checkpoints
+*.ckpt
+*.ckpt.*
+checkpoint
+model.pt
+*.h5
+*.pb
+train/
+test/
+
+# DeepXDE output files
+loss.dat
+train.dat
+test.dat
+*.dat
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ANSYS working files
+*.wbpj
+*.wbpz
+*.mechdb
+*.dsdb
+ansys_files/
+dp0/
