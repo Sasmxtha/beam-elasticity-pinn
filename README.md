@@ -217,7 +217,7 @@ beam-elasticity-pinn/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/beam-elasticity-pinn.git
+git clone https://github.com/sasmxtha/beam-elasticity-pinn.git
 cd beam-elasticity-pinn
 ```
 
