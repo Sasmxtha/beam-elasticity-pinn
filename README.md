@@ -12,16 +12,7 @@
 
 ---
 
-## 👥 Team Members
 
-| Name | Roll Number |
-|------|-------------|
-| Kowshik P L | CB.AI.U4AID24036 |
-| Sangeeth S | CB.AI.U4AID24050 |
-| Sasmitha S | CB.AI.U4AID24051 |
-| Mohan S | CB.AI.U4AID24032 |
-
----
 
 ## 📚 Courses
 
